@@ -23,19 +23,27 @@ You could hand-wire all the key switches together but it would be messy and you 
 
 
 ## Version and Gerbers
-- **v1.0** (gerbers/gerbers-v1.0.zip)
+### **v1.0** (gerbers/gerbers-v1.0.zip)
 
-    First iteration of the desing.
-    The RBG footprint used for the SK6812 MINI-E was messed up and the connections did not match.
-    The board was successfully printed with JLCPCB (as 5x5 panel), the only the Rows and Cols are really usable.
-    Leaving this hear for the sake of archiving.
+First iteration of the desing.
 
-- **v1.1** (gerbers/gerbers-v1.1.zip)
+The RBG footprint used for the SK6812 MINI-E was messed up and the connections did not match.
 
-    This version was the first usable MVP and it was successfully used in my my own Dactyl Manuform build.
-    Works great!
-    The board was successfully printed with JLCPCB though I dont remember doing much checking tolerances.
-    I used a 1.6 thickness with a 1oz copper layer and a LeadFree HASL-RoHS finish.
-    Potentially improvements:
-      -  Solid Pads instead of THT may allow for easier wiring (though they may require better soldering skills)
-      -  The traces themselves could be a bit thicker (not sure if there is enough space)
+The board was successfully printed with JLCPCB (as 5x5 panel), the only the Rows and Cols are really usable.
+
+Leaving this hear for the sake of archiving.
+
+### **v1.1** (gerbers/gerbers-v1.1.zip)
+
+This version was the first usable MVP and it was successfully used in my my own Dactyl Manuform build.
+
+Works great!
+
+The board was successfully printed with JLCPCB though I dont remember doing much checking tolerances.
+
+I used a 1.6 thickness with a 1oz copper layer and a LeadFree HASL-RoHS finish.
+
+Potentially improvements:
+    
+ -  Solid Pads instead of THT may allow for easier wiring (though they may require better soldering skills)
+ -  The traces themselves could be a bit thicker (not sure if there is enough space)
