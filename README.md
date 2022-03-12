@@ -46,4 +46,11 @@ I used a 1.6 thickness with a 1oz copper layer and a LeadFree HASL-RoHS finish.
 Potentially improvements:
     
  -  Solid Pads instead of THT may allow for easier wiring (though they may require better soldering skills)
- -  The traces themselves could be a bit thicker (not sure if there is enough space)
+ -  The traces themselves could be a bit thicker (not sure if there is enough space)#
+
+
+## Bonus
+
+mount.stl is 3D-printable part that can be used to firmly hold in place the Keyswitch-Biscuit to allow for easy soldering.
+It can come in handy to get a few of these and glue them to a working surface, spaced so that there is equal distances between them.
+If you are planning on hand-wiring a large matrix, it may make it easy to solder the wires and keep of a consistent length.
