@@ -35,7 +35,7 @@ Leaving this hear for the sake of archiving.
 
 ### **v1.1** (gerbers/gerbers-v1.1.zip)
 
-This version was the first usable MVP and it was successfully used in my my own Dactyl Manuform build.
+This version was the first usable MVP and it was successfully used in my own Dactyl Manuform build.
 
 Works great!
 
